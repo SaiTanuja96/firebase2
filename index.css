@@ -1,0 +1,61 @@
+.body{
+   background: #21252b;
+    
+    color: aliceblue;
+    font-size: 14px;
+    font-style: normal;
+    margin: 0px;
+    padding: 0px;
+    
+    }
+
+
+*{
+    font-size: 16px;
+    margin: 0px;
+    outline: none;
+    box-sizing: border-box;
+    
+    
+}
+
+.maindiv{
+ background:#fff;
+    margin: 0px auto;
+    margin-top: 200px;
+    padding:20px;
+    width: 450px;
+    box-shadow: 0px 0px 20px #333;
+}
+
+input button{
+    padding: 10px;
+    border: none;
+}
+
+button{
+    color: #fff;
+    background: #528bff;
+    position: relative;
+    top=50px;
+    width: 64px;
+    height: 64px;
+}
+
+h1{
+ font-size: 24px;
+    font-weight: 200px;
+    text-align: center;
+    
+}
+textarea{
+    border: 0px;
+    background: #fff;
+    padding: 20px 0;
+    outline: none;
+    width: 100%;
+    resize: none;
+    
+    
+    
+}
